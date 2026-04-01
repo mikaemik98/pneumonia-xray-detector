@@ -1,5 +1,9 @@
 # Pneumonia Detection from Chest X-rays
 
+## Live Demo
+
+Try the app here: https://huggingface.co/spaces/mikaemik/pneumonia-xray-detector
+
 ## Overview
 
 A deep learning model that detects pneumonia from chest X-ray images using
